@@ -1,0 +1,3 @@
+PFLAGS+=-I$(TOSROOT)/tos/lib/net/tinycoap
+PFLAGS+=-I$(TOSROOT)/tos/lib/net/tinycoap/interfaces
+PFLAGS+=-I$(TOSROOT)/tos/lib/net/tinycoap/include
